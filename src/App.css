@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Saira&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Pirata+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Antic+Slab&display=swap');
+.logo{
+    color: white !important;
+    font-family: 'Righteous';
+}
+.HR{
+    color: white !important;
+    font-family: 'Saira', sans-serif;
+    font-weight: bold;
+}
+.HR:hover{
+    color: rgb(0, 0, 0) !important;
+    font-family: 'Saira', sans-serif;
+    font-weight: bold;
+}
+.BG{
+    background-color: #D6B098 !important;
+}
+.PP{
+    background-image: url(images/2.jpg);
+    width: 100%;height: 500px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.P{
+    font-family: 'Pirata One', cursive;
+    color: whitesmoke;
+    font-size: 50px;
+}
+.XYZ{
+    margin-left: 55px;
+}
+.COT{
+    color:#D6B098 !important;
+}
+.XYZZ{
+    margin-left: 45px;
+    font-family: 'Antic Slab', serif;
+}
+.XYYZ{
+   font-family: 'Antic Slab', serif;
+}
+.S{
+    width: 250px;
+}
+.SS{
+    width: 100%;
+}
+.ZZZ{
+    margin-right: 45px;
+}
